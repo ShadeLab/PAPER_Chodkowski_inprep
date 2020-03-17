@@ -8,7 +8,7 @@
 <i> This work is published </i>
 
 ### Data
-The raw data for this study are available in the Joint Genomes Institute Genome Portal (https://genome.jgi.doe.gov/portal/ Project ID [1139694](https://genome.jgi.doe.gov/portal/SwiandphylliTags_FD/SwiandphylliTags_FD.info.html)) with projects designated by year and sample type
+The mass spectral data for this study are available at MetaboLights (http://www.ebi.ac.uk/metabolights/MTBLS525).
 
 
 ### To cite this work or code
